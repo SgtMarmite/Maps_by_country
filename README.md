@@ -5,5 +5,7 @@ prerequisities:
 - sqlite db
 - SPH_OKRES.shp
 
+
+
 1. launch select_for_graphs.py
 2. launch mapa_okres.py

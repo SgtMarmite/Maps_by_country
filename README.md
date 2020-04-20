@@ -2,7 +2,7 @@
 These scripts are used to retrieve the data and generate maps for flat prices in Czechia.
 
 Prerequisities:
-- sqlite db
+- sqlite db with data from sreality.cz
 - SPH_OKRES.shp
 
 Steps:
